@@ -4,12 +4,6 @@ All my relevant projects here.
 
 ---------
 
-:package: Particle Attractor (Unity Plugin) - January 2020
----------
-* 2D Particle Attractor tool based on DOTween Core
-* C#, Unity
-* [Open Project](https://github.com/AdrianOrcik/Unity_ParticleAttractor_Plugin)
-
 :card_file_box: Lua embedded to C++ with demo (ShowCase) - January 2020
 ---------
 * 2D Console Tank Game (Lua Embedded to CPP)
