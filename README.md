@@ -4,6 +4,12 @@ All my relevant projects here.
 
 ---------
 
+:package: ParticleAttractor (Unity Plugin) - February 2020
+---------
+* Boost your UI effect to another level
+* C#, Unity
+* [Open Project](https://github.com/AdrianOrcik/Unity_ParticleAttractor_Plugin_Source)
+
 :card_file_box: Lua embedded to C++ with demo (ShowCase) - January 2020
 ---------
 * 2D Console Tank Game (Lua Embedded to CPP)
