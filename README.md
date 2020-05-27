@@ -4,6 +4,18 @@ All my relevant projects here.
 
 ---------
 
+:card_file_box: Sorting Simulation (ShowCase) - May 2020
+---------
+* Sorting simulation app powered by Ugine
+* C++
+* [Open Project](https://github.com/AdrianOrcik/Ugine_SortingSimulation)
+
+⚙️ Ugine (Tiny Engine Lib) - May 2020
+---------
+* Tiny Engine Lib used for engine learning path
+* C++, C, OpenGL
+* [Open Project](https://github.com/AdrianOrcik/ugine)
+
 :package: ParticleAttractor (Unity Plugin) - February 2020
 ---------
 * Boost your UI effect to another level
