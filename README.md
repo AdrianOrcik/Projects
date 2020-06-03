@@ -12,9 +12,16 @@ All my relevant projects here.
 
 ⚙️ Ugine (Tiny Engine Lib) - May 2020
 ---------
+* (preview version)
 * Tiny Engine Lib used for engine learning path
 * C++, C, OpenGL
 * [Open Project](https://github.com/AdrianOrcik/ugine)
+
+:pencil: Unity Tutorial Template (UseCase) - April 2020
+---------
+* UseCase of independent tutorial with exmaple of tutorial structure
+* C#, Unity
+* [Open Project](https://github.com/AdrianOrcik/Unity_UseCase_Tutorial)
 
 :package: ParticleAttractor (Unity Plugin) - February 2020
 ---------
