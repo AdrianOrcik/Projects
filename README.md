@@ -4,6 +4,12 @@ All my relevant projects here.
 
 ---------
 
+:card_file_box: Pathfinding Simulation (ShowCase) - June 2020
+---------
+* Pathfinding simulation app powered by Ugine
+* C++
+* [Open Project](https://github.com/AdrianOrcik/Ugine_PathfindingSimulation)
+
 :card_file_box: Sorting Simulation (ShowCase) - May 2020
 ---------
 * Sorting simulation app powered by Ugine
