@@ -18,7 +18,7 @@ All my relevant projects here.
 
 ⚙️ Ugine (Tiny Engine Lib) - May 2020
 ---------
-* (preview version)
+* (preview version, in development)
 * Tiny Engine Lib used for engine learning path
 * C++, C, OpenGL
 * [Open Project](https://github.com/AdrianOrcik/ugine)
