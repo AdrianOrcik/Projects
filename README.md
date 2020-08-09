@@ -4,6 +4,12 @@ All my relevant projects here.
 
 ---------
 
+:card_file_box: Game definitions pipeline (UseCase) - August 2020
+---------
+* UseCase of game definitions pipeline (Create to download game definitions) 
+* C#, Python, Javascript
+* [Open Project](https://github.com/AdrianOrcik/Unity_UseCase_GameDefinitionsPipeline)
+
 :card_file_box: Pathfinding Simulation (ShowCase) - June 2020
 ---------
 * Pathfinding simulation app powered by Ugine
