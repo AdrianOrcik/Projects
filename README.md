@@ -4,7 +4,7 @@ All my relevant projects here.
 
 ---------
 
-:card_file_box: Game definitions pipeline (UseCase) - August 2020
+:pencil: Game definitions pipeline (UseCase) - August 2020
 ---------
 * UseCase of game definitions pipeline (Create to download game definitions) 
 * C#, Python, Javascript
