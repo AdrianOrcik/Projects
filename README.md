@@ -6,7 +6,7 @@ All my relevant projects here.
 
 :pencil: Game Definitions Pipeline (UseCase) - August 2020
 ---------
-* UseCase of game definitions pipeline (Create to download game definitions) 
+* UseCase of game definitions pipeline (Create to downloadable game definitions) 
 * C#, Python, Javascript
 * [Open Project](https://github.com/AdrianOrcik/Unity_UseCase_GameDefinitionsPipeline)
 
